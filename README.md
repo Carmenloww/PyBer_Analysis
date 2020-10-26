@@ -30,8 +30,5 @@ The total rides is 1625 with 2405 total drivers. The Total fares is $39,854.38 w
 
 Overall, the Urban cities are doing relatively the best and consist compared to the other two cities. There is more room for opportunities for the Suburban and Rural cities to expand. Concentrating more on the Rural cities would benefit the business for Pyber.
 
-<<<<<<< HEAD
 ![PyBer_fare_summary](./analysis/PyBer_fare_summary.png)
-=======
-![PyBer_fare_summary](./analysis/PyBer_fare_summary.png)
->>>>>>> f3141989bad7eda20dbc8449b6c07a95a6e24db1
+

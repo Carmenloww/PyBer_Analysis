@@ -12,16 +12,22 @@ Software: Matplotli 3.2.2, Python 3.9, Visual Studio Code 1.50.0, Anaconda 4.8.5
 
 ## Results
 
-There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. 
+The Ride-sharing data in the Rural:
 
+The total rides is 125 with 78 total drivers. The Total fares is $4,327.93 with an average of $34.62 per ride and $55.49 per driver.
 
+The Ride-sharing data in the Suburban:
+
+The total rides is 625 with 490 total drivers. The Total fares is $19,356.33 with an average of $30.97 per ride and $39.50 per driver.
+
+The Ride-sharing data in the Urban:
+
+The total rides is 1625 with 2405 total drivers. The Total fares is $39,854.38 with an average of $24.53 per ride and $16.57 per driver.
+
+![pyber_summary_data](./Resources/pyber_summary_data.png)
 
 ## Summary
 
+Overall, the Urban cities are doing relatively the best and consist compared to the other two cities. There is more room for opportunities for the Suburban and Rural cities to expand. Concentrating more on the Rural cities would benefit the business for Pyber.
 
-Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
-
-
-Summary:
-
-There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types. (4 pt)
+![PyBer_fare_summary](./analysis/PyBer_fare_summary.png)
